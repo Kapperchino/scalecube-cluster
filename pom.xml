@@ -9,7 +9,7 @@
   </parent>
 
   <artifactId>scalecube-cluster-parent</artifactId>
-  <version>2.6.13-SNAPSHOT</version>
+  <version>2.6.13</version>
   <packaging>pom</packaging>
   <name>scalecube-cluster</name>
 
@@ -144,7 +144,7 @@
         <repository>
           <id>github</id>
           <name>GitHub Packages</name>
-          <url>https://maven.pkg.github.com/scalecube/scalecube-cluster</url>
+          <url>https://maven.pkg.github.com/Kapperchino/scalecube-cluster</url>
         </repository>
       </distributionManagement>
     </profile>
